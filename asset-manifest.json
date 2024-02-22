@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.7acaea2f.css",
+    "main.js": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.07d3183d.js",
+    "index.html": "/Vladnova.io/goit-react-woolf-hw-04-images/index.html",
+    "main.7acaea2f.css.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
