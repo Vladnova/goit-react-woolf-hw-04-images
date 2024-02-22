@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.799c445a.css",
-    "main.js": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.27daeecb.js",
-    "index.html": "/Vladnova.io/goit-react-woolf-hw-04-images/index.html",
-    "main.799c445a.css.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.799c445a.css.map",
-    "main.27daeecb.js.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.27daeecb.js.map"
+    "main.css": "/goit-react-woolf-hw-04-images/static/css/main.799c445a.css",
+    "main.js": "/goit-react-woolf-hw-04-images/static/js/main.27daeecb.js",
+    "index.html": "/goit-react-woolf-hw-04-images/index.html",
+    "main.799c445a.css.map": "/goit-react-woolf-hw-04-images/static/css/main.799c445a.css.map",
+    "main.27daeecb.js.map": "/goit-react-woolf-hw-04-images/static/js/main.27daeecb.js.map"
   },
   "entrypoints": [
     "static/css/main.799c445a.css",
