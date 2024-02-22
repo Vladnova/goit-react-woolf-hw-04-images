@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.7acaea2f.css",
-    "main.js": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.07d3183d.js",
+    "main.css": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.799c445a.css",
+    "main.js": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.27daeecb.js",
     "index.html": "/Vladnova.io/goit-react-woolf-hw-04-images/index.html",
-    "main.7acaea2f.css.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.07d3183d.js.map"
+    "main.799c445a.css.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/css/main.799c445a.css.map",
+    "main.27daeecb.js.map": "/Vladnova.io/goit-react-woolf-hw-04-images/static/js/main.27daeecb.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.799c445a.css",
+    "static/js/main.27daeecb.js"
   ]
 }
